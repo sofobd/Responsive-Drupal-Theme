@@ -1,7 +1,7 @@
 # Responsive-Drupal-Theme
 About Arian Open Charity Theme
 ------------------------------
-This is my first drupal theme. Its very light weight with modern look and feel. It is responsive theme. Tested with Firfox, Google chrome and IE11. Responsiveness tested with Google chrome and Firefox device tool.
+This is my first drupal theme. Its very light weight with modern look and feel. It is responsive theme. Tested with the latest version of Firfox, Google chrome, Safari and IE11. Responsiveness tested with Google chrome and Firefox device tool.
 
 I just followed the instructions of drupal theming from https://www.drupal.org/node/171194
 
