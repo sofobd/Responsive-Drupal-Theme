@@ -1,0 +1,56 @@
+name = Arian Open Charity
+description =  My first theme<br/>Developed & Designed by <a href="mailto:tsumon@gmail.com">A F M Salah Uddin</a> 
+core = 7.x
+
+engine = phptemplate
+stylesheets[all][] = css/font-awesome.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/media.css
+scripts[] = js/custom.js
+
+regions[home_banner_text]  = Home page banner text
+regions[event_anouncement] = Event Anouncement block
+
+regions[highlighted] = Highlighted
+regions[content] = Content
+
+regions[home_block_01] = Home page first block
+regions[home_block_02] = Home page second block
+regions[home_block_03] = Home page third block
+
+regions[home_bottom] 		= Home page Bottom block
+
+regions[footer_top] 		= Footer Top
+
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+
+settings[toggle_logo] = 1 
+settings[toggle_name] = 1 
+settings[toggle_slogan] = 1 
+settings[toggle_node_user_picture] = 1 
+settings[toggle_comment_user_picture] = 1 
+settings[toggle_comment_user_verification] = 1 
+settings[toggle_favicon] = 1 
+settings[toggle_main_menu] = 1 
+settings[toggle_secondary_menu] = 1 
+
+settings[breadcrumbs]  = 1
+settings[social_links]  = 1
+settings[twitter_profile_url] = "https://twitter.com"
+settings[facebook_profile_url] = "https://www.facebook.com"
+settings[gplus_profile_url] = "https://plus.google.com"
+
+; Information added by Drupal.org packaging script on 2015-12-14
+version = "7.x-1.0"
+core = "7.x"
+project = "arian_open_charity"
+datestamp = "1450110557"
+
