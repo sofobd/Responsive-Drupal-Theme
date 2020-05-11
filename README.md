@@ -50,4 +50,4 @@ Now follow the following steps:
 9. From admin/appearance theme settings you can put the social links url.
 10. From admin/structure/menu > Main menu you can add menu items.
 
-For Demo please visit http://opencharity.totalcarelab.com
+
